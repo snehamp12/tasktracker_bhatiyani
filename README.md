@@ -17,6 +17,9 @@ Task data is stored in backend memory, and categories are fetched from a JSON Se
 - `/db.json` - JSON Server data file for categories
 
 ## Running Locally
-1. Start JSON Server:
+
 ```bash
 json-server --watch db.json --port 3001
+python backend/app.py
+cd frontend
+npm start```
