@@ -9,7 +9,7 @@ Task data is stored in backend memory, and categories are fetched from a JSON Se
 - Frontend: React, Material UI (MUI), Chart.js, JSON Server  
 - Backend: Flask (Python) with full CRUD API  
 - Tools: JSON Server for mock categories data  
-- Deployment: (Add your live URLs here once deployed)
+- Deployment: https://tasktracker-bhatiyani.vercel.app/
 
 ## Project Structure
 - `/backend` - Flask backend API  
