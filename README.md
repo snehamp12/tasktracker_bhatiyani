@@ -22,4 +22,5 @@ Task data is stored in backend memory, and categories are fetched from a JSON Se
 json-server --watch db.json --port 3001
 python backend/app.py
 cd frontend
-npm start```
+npm start
+```
